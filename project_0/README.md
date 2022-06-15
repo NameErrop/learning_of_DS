@@ -1,12 +1,12 @@
 # Projact 0. Guess the number
 
 ## Contants
-[1. Projact description]()
-[2. What case we are solving]()
-[3. Brief information about the date]()
-[4. Stages of work]()
-[5. Result]()
-[6. Conclusions]()
+[1. Project description](https://github.com/NameErrop/learning_of_DS/blob/main/project_0/README.md#Projacts_descriptions)
+[2. What case we are solving](https://github.com/NameErrop/learning_of_DS/blob/main/project_0/README.md#What_case_we_are_solving)
+[3. Brief information about the date](https://github.com/NameErrop/learning_of_DS/blob/main/project_0/README.md#Brief_information_about_the_date)
+[4. Stages of work](https://github.com/NameErrop/learning_of_DS/blob/main/project_0/README.md#Stage_of_work)
+[5. Result](https://github.com/NameErrop/learning_of_DS/blob/main/project_0/README.md#Results)
+[6. Conclusions](https://github.com/NameErrop/learning_of_DS/blob/main/project_0/README.md#Conclusions)
 
 ### Projacts descriptions
 Guess the number guessed by computer in the minimum number of attempts
@@ -14,7 +14,7 @@ Guess the number guessed by computer in the minimum number of attempts
 :arrow up:[to contants]()
 
 
-### What case we are solving?
+### What case we are solving
 We must to make the programm, that guess the number in the minimun number of attempts
 
 **Conditions:**
@@ -32,4 +32,19 @@ Learning to write good Python code
 
 ....
 
-:arrow up:[to contants]()
+
+### Stage of work 
+
+....
+
+
+### Results
+
+....
+
+
+### Conclusions
+
+....
+
+:arrow up:[to contants](https://github.com/NameErrop/learning_of_DS/blob/main/project_0/README.md#Contants)
