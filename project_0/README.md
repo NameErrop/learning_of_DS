@@ -1,11 +1,11 @@
 # Projact 0. Guess the number
 
 ## Contants
-[1. Project description](https://github.com/NameErrop/learning_of_DS/blob/main/project_0/README.md#Projacts_descriptions)
-[2. What case we are solving](https://github.com/NameErrop/learning_of_DS/blob/main/project_0/README.md#What_case_we_are_solving)
-[3. Brief information about the date](https://github.com/NameErrop/learning_of_DS/blob/main/project_0/README.md#Brief_information_about_the_date)
-[4. Stages of work](https://github.com/NameErrop/learning_of_DS/blob/main/project_0/README.md#Stage_of_work)
-[5. Result](https://github.com/NameErrop/learning_of_DS/blob/main/project_0/README.md#Results)
+[1. Project description](https://github.com/NameErrop/learning_of_DS/blob/main/project_0/README.md#Projacts_descriptions)  
+[2. What case we are solving](https://github.com/NameErrop/learning_of_DS/blob/main/project_0/README.md#What_case_we_are_solving)  
+[3. Brief information about the date](https://github.com/NameErrop/learning_of_DS/blob/main/project_0/README.md#Brief_information_about_the_date)  
+[4. Stages of work](https://github.com/NameErrop/learning_of_DS/blob/main/project_0/README.md#Stage_of_work)  
+[5. Result](https://github.com/NameErrop/learning_of_DS/blob/main/project_0/README.md#Results)  
 [6. Conclusions](https://github.com/NameErrop/learning_of_DS/blob/main/project_0/README.md#Conclusions)
 
 ### Projacts descriptions
