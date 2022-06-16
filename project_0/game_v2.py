@@ -1,7 +1,7 @@
 """The game guess the number"""
 import numpy as np
 def random_predict(number:int=1) -> int:
-    """Random;y guessing the number
+    """Randomly guessing the number
 
     Args:
         number (int, optional): hidden number. Defaults to 1.
@@ -35,7 +35,7 @@ def score_game(random_predict) -> int:
     for number in random_array:
         count_ls.append(random_predict(number))
     score = int(np.mean(count_ls)) # find average number of attempts
-    print(f' Your algorithm guesse number in average of {score} appemtps')
+    print(f' Your algorithm guess number in average of {score} appemtps')
     return score
 
 if __name__ == '__main__':
