@@ -8,7 +8,7 @@
 [5. Result](https://github.com/NameErrop/learning_of_DS/blob/main/project_0/README.md#Results)  
 [6. Conclusions](https://github.com/NameErrop/learning_of_DS/blob/main/project_0/README.md#Conclusions)
 
-### Projacts descriptions
+### Projects descriptions
 Guess the number guessed by computer in the minimum number of attempts
 
 :arrow up:[to contants]()
