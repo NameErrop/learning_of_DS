@@ -1,4 +1,4 @@
-# Projact 0. Guess the number
+# Project 0. Guess the number
 
 ## Contants
 [1. Project description](https://github.com/NameErrop/learning_of_DS/blob/main/project_0/README.md#Projacts_descriptions)  
