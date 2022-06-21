@@ -7,10 +7,10 @@ while True:
     predict_number = int(input('Guess the numdber from 1 to 100:  '))
     
     if predict_number > number:
-        print('The numder must be less than')
+        print(f'The numder must be less than {predict_number} ')
         
     elif predict_number < number:
-        print('The number must de greater than')
+        print(f'The number must de greater than {predict_number} ')
         
     else:
         print(f'You guessed the number! This number is {number} in {count} attempts')
