@@ -1,12 +1,12 @@
 # Homework Python-8. Guess the number
 
 ## Contants
-[1. Project description](https://github.com/NameErrop/learning_of_DS/tree/main/Python8_Homework/Projact_description)  
-[2. What case we are solving](https://github.com/NameErrop/learning_of_DS/tree/main/Python8_Homework/What_case_we_are_solving)  
-[3. Brief information about the date](https://github.com/NameErrop/learning_of_DS/tree/main/Python8_Homework/Brief_informatiom_about_the_date)  
-[4. Stages of work](https://github.com/NameErrop/learning_of_DS/tree/main/Python8_Homework/Stages_of_work)  
-[5. Result](https://github.com/NameErrop/learning_of_DS/tree/main/Python8_Homework/Results)  
-[6. Conclusions](https://github.com/NameErrop/learning_of_DS/tree/main/Python8_Homework/Conclusions)
+[1. Project description](https://github.com/NameErrop/learning_of_DS/tree/main/Python8_Homework#Projact_description)  
+[2. What case we are solving](https://github.com/NameErrop/learning_of_DS/tree/main/Python8_Homework#What_case_we_are_solving)  
+[3. Brief information about the date](https://github.com/NameErrop/learning_of_DS/tree/main/Python8_Homework#Brief_informatiom_about_the_date)  
+[4. Stages of work](https://github.com/NameErrop/learning_of_DS/tree/main/Python8_Homework#Stages_of_work)  
+[5. Result](https://github.com/NameErrop/learning_of_DS/tree/main/Python8_Homework#Results)  
+[6. Conclusions](https://github.com/NameErrop/learning_of_DS/tree/main/Python8_Homework#Conclusions)
 
 ### Project descriptions
 Guess the number guessed by computer in the minimum number of attempts
