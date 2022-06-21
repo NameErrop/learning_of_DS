@@ -8,7 +8,7 @@
 [5. Result](____________)  
 [6. Conclusions](_________)
 
-### Projects descriptions
+### Project descriptions
 Guess the number guessed by computer in the minimum number of attempts
 
 :arrow up:[to contants]()
