@@ -39,7 +39,7 @@ def score_game(random_predict) -> int:
         int: average number of attempts
     """
     count_ls = [] # list for save numer of attempts
-    np.random.seed(2) # Fixing seed for reproducibility
+    np.random.seed(1) # Fixing seed for reproducibility
     random_array = np.random.randint(1,101,size=(1000)) # list of numbers
     for number in random_array:
         count_ls.append(random_predict(number))
