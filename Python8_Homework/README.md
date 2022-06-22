@@ -45,5 +45,5 @@ We make the algorithm that guess the hidden number in average of 5 attempts.
 
 
 ### Conclusions
-Strengthened skills in working with Python. 
-Strengthened skills in working with IDE and GitHub.
+Strengthened skills in working with Python.  
+Strengthened skills in working with IDE and GitHub.  
