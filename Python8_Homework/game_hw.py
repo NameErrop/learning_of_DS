@@ -15,14 +15,14 @@ def random_predict(number:int=np.random.randint(1,101)) -> int:
 
     while True:
         count += 1
-        predict_number = int((max(lst_num) + min(lst_num))/2)
+        predict_number = int((max(lst_num) + min(lst_num))/2) # We mean that the hidden number is half of the total range
         half = int((len(lst_num))/2)
         if number == predict_number or count > 20:
-            break # Exit the loop
+            break # exit the loop
         elif predict_number > number:
-            lst_num = lst_num[:half]
+            lst_num = lst_num[:half] # If the predict number is larger than the hidden number, then we cut out most of the range
         else:
-            lst_num = lst_num[half:]
+            lst_num = lst_num[half:] # If the predict number is less than the hidden number, then we screen out the smaller part of the range
             
             
     return count
@@ -38,12 +38,12 @@ def score_game(random_predict) -> int:
     Returns:
         int: average number of attempts
     """
-    count_ls = [] # list for save numer of attempts
+    count_ls = [] # List for save numer of attempts
     np.random.seed(1) # Fixing seed for reproducibility
-    random_array = np.random.randint(1,101,size=(1000)) # list of numbers
+    random_array = np.random.randint(1,101,size=(1000)) # List of numbers
     for number in random_array:
         count_ls.append(random_predict(number))
-    score = int(np.mean(count_ls)) # find average number of attempts
+    score = int(np.mean(count_ls)) # Find average number of attempts
     print(f' Your algorithm guess number in average of {score} attemtps')
     return score
 
